@@ -1,0 +1,20 @@
+export const helpDialogData = {
+  title: 'EIS Simulation - Quick Guide',
+  verticalText: 'Where to click?',
+  headerButtons: ['INITIATIVES', 'ORG CHART', 'ORG NETWORKS', 'MISSION', 'QUIT'],
+  controlPanelItems: Array.from({ length: 10 }),
+  initiativeItems: ['Dinner Event', 'Coffee Groups', 'Email', 'Pilot Test', 'Workshop', 'Task Force'],
+  initiativeDescription: 'Click on an initiative to see details and launch it.',
+  missionNotes: 'Review mission context, project goals and challenges before launching actions.',
+  footerButtons: ['YOUR STRATEGY', 'SCORE', 'ACTIVITY LOG', 'TIME (63)'],
+  footerProgressBars: Array.from({ length: 9 }),
+  guideItems: [
+    'To review your Mission',
+    'To visualize Org Chart & Networks',
+    'To launch initiatives',
+    'To check Strategy, Score, Activity Log',
+    'To quit the simulation',
+    'Stop voice anytime',
+  ],
+  guideText: 'Guide: INITIATIVES se action launch karo, aur bottom se STRATEGY / SCORE / ACTIVITY LOG track karo.',
+};

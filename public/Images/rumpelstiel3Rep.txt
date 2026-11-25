@@ -1,0 +1,507 @@
+(1) KEY SESSION DATA
+============================================================
+Simulation Licence:        aaa
+Timestamp:                 8/11/20    1:05 PM
+Real Time Elapsed:         0 hours 7 minutes 46 seconds
+Simulation Time Elapsed:   69 days
+Number of Initiatives:     35
+Number of Attitude Points: 73 (out of max. 243)
+Number of Adopters:        2 (out of max. 22)
+Score:                     34.5
+
+
+(2) TEAM / STRATEGY & REFLECTION POINTS
+============================================================
+The "Winners" Team
+---- o ---- o ---- o ---- o ----
+1. Find them, top down 
+2. Catch them and grab their attention
+3. Help them realize how lucky they are
+4. Persuade & celebrate
+
+Guiding Principle: Execute or Evacuate!
+---- o ---- o ---- o ---- o ----
+>>>> DOs
+
+
+
+>>>> DONTs
+
+
+
+
+
+
+(3) ADOPTION STAGES
+============================================================
+INFO IGNORED     AWARE       INTERESTED  TRYING/APPR. ADOPTED
+Y                            Emma Stuart
+N                            Bert Heinze PhD
+Y                            Stefanie Durand
+Y                Per Joos PhD
+Y                            Randy Longhorn
+Y                                                    Frank Raponi
+Y                            John Peters
+Y                            Martin Buerli
+N                Luis Fernandez
+N                            Jean Bardotte
+N                Fred Smithson
+N                            Anna Belloni
+N                            Laszlo Por
+N                Ivan Tarowski
+Y                Daniel Wang PhD
+Y                Roberta Fong
+Y                            Thomas Kupik
+N                            Pradeep Gupta
+Y                                                    Jill Atherson
+Y                            Linda Pastorakis
+Y                                        Adam deGroote
+Y                            Samuel Stein
+Y                            Wilma Grollmyer
+N                Adrian Muster PhD
+
+
+(4) HISTORY SUMMARY
+============================================================
+EVENT   (  0)                                    0p
+# 1 (  1-  2) Get Profiles                     info     
+# 2 (  3-  3) Face-To-Face Meeting (Durand)      2p                      
+# 3 (  4-  4) Face-To-Face Meeting (Stuart)      1p                      
+# 4 (  5-  5) Face-To-Face Meeting (Raponi)      4p                      
+# 5 (  6-  8) Internal Magazine                  7p          
+EVENT   (  8)                                   21p 
+# 6 (  9- 10) Get Profiles                     info     
+# 7 ( 11- 13) Coffee Groups                    info      
+# 8 ( 14- 14) Workshop (Raponi)                  0p          
+# 9 ( 15- 15) Face-To-Face Meeting (deGroote)    3p                        
+#10 ( 16- 20) Workshop (Raponi)                  0p          
+#11 ( 21- 25) Plenary Meeting                    3p        
+#12 ( 26- 26) Public Statement                   0p         
+#13 ( 27- 27) Face-To-Face Meeting (Durand)      2p                      
+#14 ( 28- 28) Face-To-Face Meeting (Raponi)      1p                      
+#15 ( 29- 29) Dinner Event (Stuart)              0p              
+#16 ( 30- 31) Get Profiles                     info     
+#17 ( 32- 32) Face-To-Face Meeting (Peters)      1p                      
+#18 ( 33- 33) Face-To-Face Meeting (Kupik)       2p                     
+#19 ( 34- 34) Face-To-Face Meeting (Pastorakis)  3p                          
+#20 ( 35- 35) Face-To-Face Meeting (Atherson)    2p                        
+#21 ( 36- 36) Pilot Test (Atherson)              0p              
+#22 ( 37- 37) Email                              0p
+#23 ( 38- 38) Memo                               0p
+#24 ( 39- 39) Face-To-Face Meeting (Atherson)    0p                        
+#25 ( 40- 40) Face-To-Face Meeting (deGroote)    2p                        
+EVENT   ( 40)                                    2p
+#26 ( 41- 45) Workshop (deGroote)                5p            
+#27 ( 46- 48) ExCom Meeting                      2p      
+#28 ( 49- 49) Neutralize Resisters             - 2p             
+#29 ( 50- 52) Neutralize Resisters              12p              
+EVENT   ( 52)                                    8p
+#30 ( 53- 56) Covert Lobbying                  - 8p        
+#31 ( 57- 57) Face-To-Face Meeting (Stuart)     18p                       
+#32 ( 58- 62) Directive                        -45p   
+#33 ( 63- 63) Face-To-Face Meeting (Peters)      3p                      
+#34 ( 64- 64) Face-To-Face Meeting (deGroote)    2p                        
+#35 ( 65- 69) Plenary Meeting                   12p         
+
+
+(5) DETAILED HISTORY
+============================================================
+EVENT   (day 0)
+___________________________________________________________________
+OUTCOME: The Secretary of the Board of GlobeCom just sent an email with some more information about Emma Stuart, the CEO, her Personal Assistant, Stefanie Durand, as well as Frank Raponi, FrontMedia's Chief HR Officer, which should be useful to you.
+
+This additional information has been directly inserted in Emma Stuart's, Stefanie Durand and Frank Raponi's Personal Profiles which you can access directly by CLICKING on the 'bubble' icon next to their names.
+
+ADOPTERS: 0
+
+DECISION 1  (days 1-2)
+___________________________________________________________________
+TACTIC  :Get Profiles (Buerli) (Joos) (Longhorn) (Stein) (Peters)
+RATIONALE: 
+OUTCOME: Requested information delivered to you.
+
+ADOPTERS: 0
+
+
+DECISION 2  (day 3 )
+___________________________________________________________________
+TACTIC  :Face-To-Face Meeting (Durand)
+RATIONALE: 
+OUTCOME: The Personal Assistant likes to experiment with new software in her spare time. Following your meeting, she now understands the potential importance of  "Boost AI" for the company and for her boss.
+
+
+ADOPTERS: 0
+
+
+DECISION 3  (day 4 )
+___________________________________________________________________
+TACTIC  :Face-To-Face Meeting (Stuart) (Stuart)
+RATIONALE: 
+OUTCOME: This has been a very interesting first meeting! 
+It is now clear to you that the CEO has not had very good experiences with 'consultants' from outside the company or 'colleagues' sent from GlobeCom Headquarters. It is thus going to be difficult to convince her.  
+
+Emma Stuart does not appear to be a big fan of technological innovations - she is old school.  She has worked very hard to get to the top and continues to believe that much of this technology push is all hype.  She stated that just because it worked elsewhere, doesn't mean it will work at FrontMedia.  
+
+However, she has been known to accept a proposal when it has stood the review of her key collaborators and they recommend it.  She admitted that the idea of injecting AI Techniques to increase performance is great, but that she is pretty happy with the way her collaborators take decisions.  She reminded that her company has evolved very successfully in the past, and why change a good thing? 
+
+She concluded the meeting by stating that she has been told by the GlobeCom Board to allow you access to everybody at FrontMedia, so she will comply and spread the word throughout the company that you are here.
+
+
+ADOPTERS: 0
+
+
+DECISION 4  (day 5 )
+___________________________________________________________________
+TACTIC  :Face-To-Face Meeting (Raponi) (Stuart)
+RATIONALE: 
+OUTCOME: Excellent! Many of FrontMedia's competitors have also started experimenting with AI techniques. Frank Raponi had been wondering when it would finally be implemented at FrontMedia and commits to start trying "Boost AI" platform immediately.
+
+
+ADOPTERS: 0
+
+
+DECISION 5  (days 6-8)
+___________________________________________________________________
+TACTIC  :Internal Magazine
+RATIONALE: 
+OUTCOME: The CEO now sees much better that the "Boost AI" project has a high potential to also bring good publicity to FrontMedia, and mentions this to all her closest collaborators.
+This was not bad at all :-)
+
+ADOPTERS: 0
+
+EVENT   (day 8)
+___________________________________________________________________
+OUTCOME: Good! You have succeeded very fast in getting the CEO interested in the "Boost AI" diffusion project! As a consequence of your good work, the CEO just sent out a strong memo to everybody!
+
+Now everybody knows (and in particular the CEO's closest collaborators) that the "Boost AI" diffusion project is really important!
+
+Congratulations for a good start!
+
+ADOPTERS: 0
+
+DECISION 6  (days 9-10)
+___________________________________________________________________
+TACTIC  :Get Profiles (Buerli) (Joos) (Longhorn) (Stein) (Peters)
+RATIONALE: 
+OUTCOME: Requested information delivered to you.
+
+ADOPTERS: 0
+
+
+DECISION 7  (days 11-13)
+___________________________________________________________________
+TACTIC  :Coffee Groups
+RATIONALE: 
+OUTCOME: Requested information delivered to you.
+
+ADOPTERS: 0
+
+
+DECISION 8  (day 14 )
+___________________________________________________________________
+TACTIC  :Workshop (Raponi)
+RATIONALE: 
+OUTCOME: Sorry, but you simply don't succeed in getting an appropriate room for the meeting. By the way, Adam deGroote's department also oversees the deployment of all the office and meeting rooms in FrontMedia facilities. It might be a good idea to have a word with him.  In the meantime, you just wasted another day in unsuccessful attempts to organize the meeting.
+Hmmm! Hasn't worked out very well for now ...
+
+ADOPTERS: 0
+
+
+DECISION 9  (day 15 )
+___________________________________________________________________
+TACTIC  :Face-To-Face Meeting (deGroote) (Stuart)
+RATIONALE: 
+OUTCOME: It's a lot clearer now what good this system will do for the company. You have been quite well organized in your thinking. Adam deGroote will be helpful in the future.
+
+
+ADOPTERS: 0
+
+
+DECISION 10  (days 16-20)
+___________________________________________________________________
+TACTIC  :Workshop (Raponi)
+RATIONALE: Spread the positive attitude of Frank.
+OUTCOME: The session was fun, but there's a fair amount of skepticism about Frank Raponi, who tends to be more talk than action. In fact, Frank Raponi talks about a "very successful" session during the tea break.
+For the time being, this last initiative has not been particularly successful. At least in the short term ...
+
+ADOPTERS: 0
+
+
+DECISION 11  (days 21-25)
+___________________________________________________________________
+TACTIC  :Plenary Meeting
+RATIONALE: 
+OUTCOME: Your scheduled pre-lunch presentation had to be moved to right after lunch, not a good time for a one-way presentation; one person actually fell asleep. You received a polite reception only, and the meeting almost got out of hand as some of the resisters tried to use it as a forum for venting their anger and frustrations.
+
+
+ADOPTERS: 0
+
+
+DECISION 12  (day 26 )
+___________________________________________________________________
+TACTIC  :Public Statement
+RATIONALE: 
+OUTCOME: The CEO’s Personal Assistant lets you know via email that Emma Stuart would rather like to see how things develop and does not find it a good idea to follow your advice at this point of time. Your decision cannot be implemented for now. You just wasted another day.
+From a point of view of getting more support, this doesn't seem to be the most successful approach.
+
+ADOPTERS: 0
+
+
+DECISION 13  (day 27 )
+___________________________________________________________________
+TACTIC  :Face-To-Face Meeting (Durand) (Joos)
+RATIONALE: 
+OUTCOME: The Personal Assistant can now see how your issues fit into FrontMedia's strategic priorities. It will now be easier to link this to the CEO's agenda in the future.
+
+
+ADOPTERS: 0
+
+
+DECISION 14  (day 28 )
+___________________________________________________________________
+TACTIC  :Face-To-Face Meeting (Raponi) (Joos)
+RATIONALE: 
+OUTCOME: Good progress. Frank Raponi doesn’t seem to have many doubts that this system is something FrontMedia really needs. It will just take some time, given that not everybody has the same positive attitude as Frank Raponi.
+
+
+ADOPTERS: 1
+
+
+DECISION 15  (day 29 )
+___________________________________________________________________
+TACTIC  :Dinner Event (Stuart)
+RATIONALE: 
+OUTCOME: The response was pretty clear. In summary, it sounded like: "I'm really sorry, I am very busy with other extremely important issues related to making this organization successful. But you can come back again to me in three months!"
+
+Furthermore, Emma Stuart’s statement “By the way, just in case you wanted to mention your "Boost AI" Project, you should take into consideration that we already have excellent systems to support our decisions in the different functions!” showed pretty clearly that at this stege there is not a high level of willingness to collaborate in redesigning processes to leverage AI Techniques.
+For the time being, this last initiative has not been particularly successful. At least in the short term ...
+
+ADOPTERS: 1
+
+
+DECISION 16  (days 30-31)
+___________________________________________________________________
+TACTIC  :Get Profiles (Atherson) (Wang) (Grollmyer) (Kupik) (Fong)
+RATIONALE: 
+OUTCOME: Requested information delivered to you.
+
+ADOPTERS: 1
+
+
+DECISION 17  (day 32 )
+___________________________________________________________________
+TACTIC  :Face-To-Face Meeting (Peters) (Heinze)
+RATIONALE: 
+OUTCOME: John Peters sees now some of the benefits. In addition, during the meeting,  it became very clear that  John Peters's attitude really depends a lot on what Randy Longhorn, Anna Belloni and Thomas Kupik think about introducing innovations at FrontMedia.
+
+
+ADOPTERS: 1
+
+
+DECISION 18  (day 33 )
+___________________________________________________________________
+TACTIC  :Face-To-Face Meeting (Kupik) (Heinze)
+RATIONALE: 
+OUTCOME: People at FrontMedia really respect Thomas Kupik, so you've made a wise choice. It's good that you were well prepared to talk about the aspects of the project Thomas Kupik finds interesting.
+
+
+ADOPTERS: 1
+
+
+DECISION 19  (day 34 )
+___________________________________________________________________
+TACTIC  :Face-To-Face Meeting (Pastorakis)
+RATIONALE: 
+OUTCOME: Good timing! Everything goes very smoothly in this meeting. Your plans make a lot of sense to Linda Pastorakis.
+
+
+ADOPTERS: 1
+
+
+DECISION 20  (day 35 )
+___________________________________________________________________
+TACTIC  :Face-To-Face Meeting (Atherson) (Heinze)
+RATIONALE: Get support of the Department
+
+OUTCOME: Good news and bad news. Your ideas were not really very persuasive to Jill Atherson, but your positive attitude and professionalism were well received.
+
+
+ADOPTERS: 1
+
+
+DECISION 21  (day 36 )
+___________________________________________________________________
+TACTIC  :Pilot Test (Atherson)
+RATIONALE: 
+OUTCOME: The idea was fine, but Jill Atherson is not interested enough at this stage. Try to organize pilot projects with people at FrontMedia whose interest in the Synergy introduction project is high enough!
+This initiative was not very effective in terms of your objective, at least for now ... 
+
+ADOPTERS: 1
+
+
+DECISION 22  (day 37 )
+___________________________________________________________________
+TACTIC  :Email
+RATIONALE: 
+OUTCOME: Electronic mail does not seem to be very effective as a communication tool at FrontMedia. Apparently people either do not read their e-mail messages or don't take the system seriously because of information overload. 
+
+Consider that the e-mail boxes of the managers are already full with messages and announcements coming from the administration, and that a number of senior managers tend not to appreciate too much e-mail as a way of communicating.
+Hmmm! Hasn't worked out very well for now ...
+
+ADOPTERS: 1
+
+
+DECISION 23  (day 38 )
+___________________________________________________________________
+TACTIC  :Memo (Stuart) (Raponi) (Atherson) (deGroote) (Durand)
+RATIONALE: 
+OUTCOME: Your memo gets buried in a pile of mail and is only superficially read by a couple of the people to whom you sent it.
+This initiative was not very effective in terms of your objective, at least for now ... 
+
+ADOPTERS: 1
+
+
+DECISION 24  (day 39 )
+___________________________________________________________________
+TACTIC  :Face-To-Face Meeting (Atherson) (Durand)
+RATIONALE: 
+OUTCOME: Jill Atherson can't get excited about a new wave of AI-enabled innovation which can become quickly disruptive and costly. Nevertheless, if others in the department want to hear about it or try it, Jill Atherson will not fight it.
+
+You remember clearly statements like “I doubt that people at FrontMedia will have the time and the capability to move so fast to a totally new way of taking decisions supported by AI!”
+From a point of view of getting more support, this doesn't seem to be the most successful approach.
+
+ADOPTERS: 1
+
+
+DECISION 25  (day 40 )
+___________________________________________________________________
+TACTIC  :Face-To-Face Meeting (deGroote) (Durand)
+RATIONALE: 
+OUTCOME: Despite some fears that you were not on the same wavelength, your discussion shows a lot of common interest in creating a better future for the organization. You realize that you can work together quite easily.
+
+
+ADOPTERS: 1
+
+EVENT   (day 40)
+___________________________________________________________________
+OUTCOME: Yesterday, at the cafeteria, you heard an interesting story. It seems that Adam deGroote and Martin Buerli, who typically don’t talk a lot together very often, met a couple of days ago by chance in the hallway and had a pretty long and intensive exchange related to the impact "Boost AI" at FrontMedia. It seems that Adam deGroote was doing most of the talking, and apparently with very good results. This was a lucky day!
+
+ADOPTERS: 1
+
+DECISION 26  (days 41-45)
+___________________________________________________________________
+TACTIC  :Workshop (deGroote)
+RATIONALE: 
+OUTCOME: You chose a person who is better at following rather than leading but has some influence on a few colleagues.
+
+
+ADOPTERS: 1
+
+
+DECISION 27  (days 46-48)
+___________________________________________________________________
+TACTIC  :ExCom Meeting
+RATIONALE: 
+OUTCOME: A strange but interesting meeting. Participants just stared at you as if you were coming from outer space. Addressing the subject at this level can be effective, but only if all the top managers involved have already sufficent background knowledge to take decisions and move ahead.
+ 
+Only those who already saw concrete examples of AI applications got excited about such an ambitious project!
+
+
+
+
+ADOPTERS: 1
+
+
+DECISION 28  (day 49 )
+___________________________________________________________________
+TACTIC  :Neutralize Resisters (Longhorn)
+RATIONALE: 
+OUTCOME: Your request did not have enough support from the hierarchy. On the contrary, Randy Longhorn's boss did not appreciate your move. You should be careful with such bold requests!
+
+
+ADOPTERS: 1
+
+
+DECISION 29  (days 50-52)
+___________________________________________________________________
+TACTIC  :Neutralize Resisters (Atherson)
+RATIONALE: 
+OUTCOME: Jill Atherson's boss agrees to intervene and promises you that there will be no need for drastic decisions to convince Jill Atherson to stop resisting.
+Wow !!!
+
+ADOPTERS: 2
+
+EVENT   (day 52)
+___________________________________________________________________
+OUTCOME: After almost three months you have not succeeded yet in getting the CEO fully interested in the diffusion of the "Boost AI" platform at FrontMedia. Her closest collaborators are puzzled. If the CEO is not particularly interested, why should they invest their time helping you in implementing this project, which is potentially very interesting, but also diverting their attention from other priorities?
+
+Be careful. You are losing the support of those who have not already bought into the "Boost AI" project.
+
+ADOPTERS: 2
+
+DECISION 30  (days 53-56)
+___________________________________________________________________
+TACTIC  :Covert Lobbying
+RATIONALE: Time to put some pressure on the top guys!
+OUTCOME: The Department Heads resent your approach and deliberately undermine the suggestion.
+
+It is a big public failure. You should review the reasons which made you decide to try to bypass some of the key people at FrontMedia and maneuver behind the scenes at this stage of the process!
+
+
+ADOPTERS: 2
+
+
+DECISION 31  (day 57 )
+___________________________________________________________________
+TACTIC  :Face-To-Face Meeting (Stuart) (Stuart)
+RATIONALE: 
+OUTCOME: The CEO grows more interested and a lot of others apparently become more open to the idea of adopting the "Boost AI" platform at FrontMedia.
+Wow !!!
+
+ADOPTERS: 2
+
+
+DECISION 32  (days 58-62)
+___________________________________________________________________
+TACTIC  :Directive
+RATIONALE: 
+OUTCOME: The CEO is offended by your "strongarm" Machiavellian approach and tells everybody that your credibility has been weakened by such a request. Your reputation at FrontMedia is definitely gone for the time being!
+
+
+ADOPTERS: 2
+
+
+DECISION 33  (day 63 )
+___________________________________________________________________
+TACTIC  :Face-To-Face Meeting (Peters) (Heinze)
+RATIONALE: 
+OUTCOME: Good! Your meeting with John Peters run pretty well! 
+
+Now it is very clear to John Peters that using the new system will improve the professionalism of the organization and offer a more advanced working environment group-wide. Meeting has definitely increased enthusiasm for the project. Keep also in mind, that John Peters is another one of those people who are very sensitive to the attitude of colleagues and particularly to how many colleagues are willing to adopt this innovation.
+
+
+ADOPTERS: 2
+
+
+DECISION 34  (day 64 )
+___________________________________________________________________
+TACTIC  :Face-To-Face Meeting (deGroote) (Durand)
+RATIONALE: 
+OUTCOME: You had been perceived as pursuing a hidden agenda, but now that you have openly explained your plans, Adam deGroote is willing to lend a hand and provide administrative support when needed.
+
+
+ADOPTERS: 2
+
+
+DECISION 35  (days 65-69)
+___________________________________________________________________
+TACTIC  :Plenary Meeting
+RATIONALE: 
+OUTCOME: Your presentation was dazzling. The high-tech graphics and exciting demonstration, including the one of an Intelligent Chatbot, is a welcome change of pace from the usual dry presentations. You sparked quite a bit of interest.
+Exceptional!!!
+
+ADOPTERS: 2
+
+
+
+
