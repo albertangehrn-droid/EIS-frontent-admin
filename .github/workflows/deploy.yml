@@ -22,12 +22,14 @@ jobs:
 
             if [ "${{ github.ref_name }}" = "Dev" ]; then
               cd /home/ubuntu/eis/Dev/EIS-frontent-admin
+              git checkout -- package.json package-lock.json
               git pull origin Dev
               npm install
               npm run build
               pm2 restart eis-Dev-admin
             elif [ "${{ github.ref_name }}" = "main" ]; then
               cd /home/ubuntu/eis/prod/EIS-frontent-admin
+              git checkout -- package.json package-lock.json
               git pull origin main
               npm install
               npm run build
